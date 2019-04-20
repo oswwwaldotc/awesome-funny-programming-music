@@ -21,6 +21,7 @@ Welcome to the awesome list about funny programming music, this started with 3 s
 | [Imagine DevOps](https://www.youtube.com/watch?v=iYLxw6OsZug) | David Lutz | *3:05* | *2011*|
 | [Java Is What Java Does](https://www.youtube.com/watch?v=zg79C7XM1Xs) | Java | *2:08* | *2014*|
 | [Java Life](https://www.youtube.com/watch?v=b-Cr0EWwaTk) | Java | *3:12* | *2011*|
+| [JavaScript Coder](https://www.youtube.com/watch?v=ARMlcfGxIwQ) | Patrick Hund | *4:32* | *2014*|
 | [Lady Java](https://www.youtube.com/watch?v=Mk3qkQROb_k) | Alexander Chernyy | *2:17* | *2010*|
 | [Overfitting Thriller!](https://www.youtube.com/watch?v=DQWI1kvmwRg) | Udacity | *5:10* | *2014*|
 | [Program in C](https://www.youtube.com/watch?v=tas0O586t80) | Kaslai | *0:51* | *2018*|
@@ -30,7 +31,9 @@ Welcome to the awesome list about funny programming music, this started with 3 s
 | [The Python Love Song](https://www.youtube.com/watch?v=DbidrYgN6eo) | Christian Aubry | *4:53* | *2011*|
 | [The Software Engineer Song](https://www.youtube.com/watch?v=y6NSdGL8czw) |IndianWhoSingsInEnglish | *1:40* | *2015*|
 | [This Is Engineering](https://www.youtube.com/watch?v=nFbWXuR_2Ow) | OfficialENGR | *4:14* | *2013*|
+| [Thrift Code](https://www.youtube.com/watch?v=f8M19SHP5TE) | astronomerssay | *4:03* | *2015*|
 | [Write in C](https://www.youtube.com/watch?v=1S1fISh-pag) | Albert Veli | *3:49* | *2010*|
+| [Write in Go](https://www.youtube.com/watch?v=LJvEIjRBSDA) | ScaleAbility | *3:42* | *2014*|
 
 ## License
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
