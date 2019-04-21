@@ -7,6 +7,7 @@ Welcome to the awesome list about funny programming music, this started with 3 s
 | Title Song | Channel | Duration | Year release | 
 |--|--|--|--|
 | [And So You Code](https://www.youtube.com/watch?v=Eq3CuMDXaPs) | Mishu | *3:28* | *2010*|
+| [An Error That I Used to Throw](https://www.youtube.com/watch?v=u47C-zIQNRE) | ScaleAbility | *4:18* | *2016*|
 | [Code Anthem](https://www.youtube.com/watch?v=t5trXhAmWWk) | NirajanOfficial | *1:56* | *2016*|
 | [CodeCode](https://www.youtube.com/watch?v=f-Zhcrezoz8) | Shawn Kim | *7:17* | *2016*|
 | [Coder girl](https://www.youtube.com/watch?v=B-m6JDYRFvk) | Dale Chase | *3:06* | *2009*|
@@ -17,6 +18,7 @@ Welcome to the awesome list about funny programming music, this started with 3 s
 | [Free Software (Electric guitar and bass edition)](https://www.youtube.com/watch?v=AKQdL7LCRIk) | Albert Veli | *2:09* | *2008*|
 | [Free Software Song (GNU/Punk edition)](https://www.youtube.com/watch?v=kCpjg50-nvc) | swamponions | *1:43* | *2015*|
 | [Free Software (Spanish edition)](https://www.youtube.com/watch?v=zT_I_3a6OGw) | Carlos Augusto Ares | *1:50* | *2013*|
+| [Google Paradise](https://www.youtube.com/watch?v=NCjeSDMotgs) | ScaleAbility | *3:41* | *2017*|
 | [Hello from MongoDB](https://www.youtube.com/watch?v=V6JVU0Nh4YM) | MongoDB | *5:07* | *2016*|
 | [Imagine DevOps](https://www.youtube.com/watch?v=iYLxw6OsZug) | David Lutz | *3:05* | *2011*|
 | [Java Is What Java Does](https://www.youtube.com/watch?v=zg79C7XM1Xs) | Java | *2:08* | *2014*|
