@@ -34,9 +34,11 @@ Welcome to the awesome list about funny programming music, this started with 3 s
 | [JavaScript Coder](https://www.youtube.com/watch?v=ARMlcfGxIwQ) | Patrick Hund | *4:32* | *2014*|
 | [Lady Java](https://www.youtube.com/watch?v=Mk3qkQROb_k) | Alexander Chernyy | *2:17* | *2010*|
 | [Overfitting Thriller!](https://www.youtube.com/watch?v=DQWI1kvmwRg) | Udacity | *5:10* | *2014*|
+| [Pathway That Can Use Two Nodes](https://www.youtube.com/watch?v=stdG3BGmhqo) | Udacity | *4:11* | *2012*|
 | [PHP](https://www.youtube.com/watch?v=S8zhmiS-1kw) | L O | *3:10* | *2010*|
 | [Program in C](https://www.youtube.com/watch?v=tas0O586t80) | Kaslai | *0:51* | *2018*|
 | [Puppy Linux](https://www.youtube.com/watch?v=rDTLJYDHX3g) | Martyn Cruise | *0:22* | *2006*|
+| [Scratch!](https://www.youtube.com/watch?v=uInOlMY-p9E) | Michael Littman | *2:42* | *2014* |
 | [Smarter](https://www.youtube.com/watch?v=XTNl5WxklgE) | Siraj Raval | *1:36* | *2017*|
 | [Solve AI or Die Trying](https://www.youtube.com/watch?v=SrWJ1Mgn_hc) | Siraj Raval | *2:17* | *2018*|
 | [System Administrator's Day](https://www.youtube.com/watch?v=FE_p5N89XQI) | Omar Peimbert | *2:42* | *2006*|
@@ -47,6 +49,8 @@ Welcome to the awesome list about funny programming music, this started with 3 s
 | [The Python Programming](https://www.youtube.com/watch?v=3UsKYsLSGpU) | Kim Ly | *6:38* | *2017* |
 | [The Real Linus Torvalds](https://www.youtube.com/watch?v=fzqnA793unc) | The Linux Foundation | *3:19* | *2009*|
 | [The Software Engineer Song](https://www.youtube.com/watch?v=y6NSdGL8czw) |IndianWhoSingsInEnglish | *1:40* | *2015*|
+| [The SQL Song](https://www.youtube.com/watch?v=vcKeG3R7A3M) | General Assembly | *1:40* | *2015*|
+| [The Sorter](https://www.youtube.com/watch?v=2HjspVV0jK4) | Michael Littman | *3:32* | *2007*|
 | [This Is Engineering](https://www.youtube.com/watch?v=nFbWXuR_2Ow) | OfficialENGR | *4:14* | *2013*|
 | [Thrift Code](https://www.youtube.com/watch?v=f8M19SHP5TE) | astronomerssay | *4:03* | *2015*|
 | [Ubuntu's 'da bomb'](https://www.youtube.com/watch?v=JDisnYe38io) | dsterry | *2:21* | *2007*|
