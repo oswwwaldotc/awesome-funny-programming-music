@@ -27,13 +27,16 @@ Welcome to the awesome list about funny programming music, this started with 3 s
 | [Full Stack](https://www.youtube.com/watch?v=rj3pnZ51xI4) | Dylan Beattie | *5:24* | *2017* |
 | [Google Paradise](https://www.youtube.com/watch?v=NCjeSDMotgs) | ScaleAbility | *3:41* | *2017*|
 | [Hello from MongoDB](https://www.youtube.com/watch?v=V6JVU0Nh4YM) | MongoDB | *5:07* | *2016*|
+| [Heuristics](https://www.youtube.com/watch?v=JqG3rmhdU-0) | Michael Littman | *2:57* | *2013*|
 | [I am Linux in a box](https://www.youtube.com/watch?v=O8bbdJj1DQg) | The Linux Foundation | *1:00* | *2009*|
 | [Imagine DevOps](https://www.youtube.com/watch?v=iYLxw6OsZug) | David Lutz | *3:05* | *2011*|
 | [Java Is What Java Does](https://www.youtube.com/watch?v=zg79C7XM1Xs) | Java | *2:08* | *2014*|
 | [Java Life](https://www.youtube.com/watch?v=b-Cr0EWwaTk) | Java | *3:12* | *2011*|
 | [JavaScript Coder](https://www.youtube.com/watch?v=ARMlcfGxIwQ) | Patrick Hund | *4:32* | *2014*|
 | [Lady Java](https://www.youtube.com/watch?v=Mk3qkQROb_k) | Alexander Chernyy | *2:17* | *2010*|
+| [Octopus's Counting](https://www.youtube.com/watch?v=4p-9-nK-mwY) | Michael Littman | *3:01* | *2006*|
 | [Overfitting Thriller!](https://www.youtube.com/watch?v=DQWI1kvmwRg) | Udacity | *5:10* | *2014*|
+| [Paintcan](https://www.youtube.com/watch?v=BmLTzeuB_h8) | Michael Littman | *4:29* | *2007*|
 | [Pathway That Can Use Two Nodes](https://www.youtube.com/watch?v=stdG3BGmhqo) | Udacity | *4:11* | *2012*|
 | [PHP](https://www.youtube.com/watch?v=S8zhmiS-1kw) | L O | *3:10* | *2010*|
 | [Program in C](https://www.youtube.com/watch?v=tas0O586t80) | Kaslai | *0:51* | *2018*|
@@ -51,6 +54,7 @@ Welcome to the awesome list about funny programming music, this started with 3 s
 | [The Software Engineer Song](https://www.youtube.com/watch?v=y6NSdGL8czw) |IndianWhoSingsInEnglish | *1:40* | *2015*|
 | [The SQL Song](https://www.youtube.com/watch?v=vcKeG3R7A3M) | General Assembly | *1:40* | *2015*|
 | [The Sorter](https://www.youtube.com/watch?v=2HjspVV0jK4) | Michael Littman | *3:32* | *2007*|
+| [This dot](https://www.youtube.com/watch?v=M5d7vygUPoQ) | Benedetto Nespoli | *1:08* | *2017*|
 | [This Is Engineering](https://www.youtube.com/watch?v=nFbWXuR_2Ow) | OfficialENGR | *4:14* | *2013*|
 | [Thrift Code](https://www.youtube.com/watch?v=f8M19SHP5TE) | astronomerssay | *4:03* | *2015*|
 | [Ubuntu's 'da bomb'](https://www.youtube.com/watch?v=JDisnYe38io) | dsterry | *2:21* | *2007*|
