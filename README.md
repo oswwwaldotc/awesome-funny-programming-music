@@ -23,6 +23,7 @@ Welcome to the awesome list about funny programming music, this started with 3 s
 | [Free Software](https://www.youtube.com/watch?v=9sJUDx7iEJw) | Ruddy Catalán | *2:02* | *2006*|
 | [Free Software (Electric guitar and bass edition)](https://www.youtube.com/watch?v=AKQdL7LCRIk) | Albert Veli | *2:09* | *2008*|
 | [Free Software Song (GNU/Punk edition)](https://www.youtube.com/watch?v=kCpjg50-nvc) | swamponions | *1:43* | *2015*|
+| [Free Software Song (Metal edition)](https://www.youtube.com/watch?v=Gv7PlyR5xrY) | skilltik | *3:18* | *2011*|
 | [Free Software (Spanish edition)](https://www.youtube.com/watch?v=zT_I_3a6OGw) | Carlos Augusto Ares | *1:50* | *2013*|
 | [Full Stack](https://www.youtube.com/watch?v=rj3pnZ51xI4) | Dylan Beattie | *5:24* | *2017* |
 | [Google Paradise](https://www.youtube.com/watch?v=NCjeSDMotgs) | ScaleAbility | *3:41* | *2017*|
@@ -30,13 +31,16 @@ Welcome to the awesome list about funny programming music, this started with 3 s
 | [Heuristics](https://www.youtube.com/watch?v=JqG3rmhdU-0) | Michael Littman | *2:57* | *2013*|
 | [I am Linux in a box](https://www.youtube.com/watch?v=O8bbdJj1DQg) | The Linux Foundation | *1:00* | *2009*|
 | [Imagine DevOps](https://www.youtube.com/watch?v=iYLxw6OsZug) | David Lutz | *3:05* | *2011*|
+| [It's SUSE I Love](https://www.youtube.com/watch?v=YQTG4aLP4-0) | SUSE | *3:35* | *2019*|
 | [Java Is What Java Does](https://www.youtube.com/watch?v=zg79C7XM1Xs) | Java | *2:08* | *2014*|
 | [Java Life](https://www.youtube.com/watch?v=b-Cr0EWwaTk) | Java | *3:12* | *2011*|
 | [JavaScript Coder](https://www.youtube.com/watch?v=ARMlcfGxIwQ) | Patrick Hund | *4:32* | *2014*|
+| [KUBERNETES](https://www.youtube.com/watch?v=0w6kXdHXxAA) | SUSE | *4:24* | *2018*|
 | [Lady Java](https://www.youtube.com/watch?v=Mk3qkQROb_k) | Alexander Chernyy | *2:17* | *2010*|
 | [Octopus's Counting](https://www.youtube.com/watch?v=4p-9-nK-mwY) | Michael Littman | *3:01* | *2006*|
 | [Overfitting Thriller!](https://www.youtube.com/watch?v=DQWI1kvmwRg) | Udacity | *5:10* | *2014*|
 | [Paintcan](https://www.youtube.com/watch?v=BmLTzeuB_h8) | Michael Littman | *4:29* | *2007*|
+| [Paint it Green](https://www.youtube.com/watch?v=b0tsZB_LEQk) | SUSE | *3:28* | *2018*|
 | [Pathway That Can Use Two Nodes](https://www.youtube.com/watch?v=stdG3BGmhqo) | Udacity | *4:11* | *2012*|
 | [PHP](https://www.youtube.com/watch?v=S8zhmiS-1kw) | L O | *3:10* | *2010*|
 | [Program in C](https://www.youtube.com/watch?v=tas0O586t80) | Kaslai | *0:51* | *2018*|
@@ -44,6 +48,7 @@ Welcome to the awesome list about funny programming music, this started with 3 s
 | [Scratch!](https://www.youtube.com/watch?v=uInOlMY-p9E) | Michael Littman | *2:42* | *2014* |
 | [Smarter](https://www.youtube.com/watch?v=XTNl5WxklgE) | Siraj Raval | *1:36* | *2017*|
 | [Solve AI or Die Trying](https://www.youtube.com/watch?v=SrWJ1Mgn_hc) | Siraj Raval | *2:17* | *2018*|
+| [SUSE Now Hallelujah](https://www.youtube.com/watch?v=-z8LDOujCJc) | SUSE | *3:02* | *2018*|
 | [System Administrator's Day](https://www.youtube.com/watch?v=FE_p5N89XQI) | Omar Peimbert | *2:42* | *2006*|
 | [The Bitcoin Song](https://www.youtube.com/watch?v=7gfBP8kPzRA) | Jam Campus | *1:38* | *2015*|
 | [The Coding Train!](https://www.youtube.com/watch?v=PBsUD40nPkI) | The Coding Train | *1:02* | *2017*|
@@ -54,10 +59,12 @@ Welcome to the awesome list about funny programming music, this started with 3 s
 | [The Software Engineer Song](https://www.youtube.com/watch?v=y6NSdGL8czw) |IndianWhoSingsInEnglish | *1:40* | *2015*|
 | [The SQL Song](https://www.youtube.com/watch?v=vcKeG3R7A3M) | General Assembly | *1:40* | *2015*|
 | [The Sorter](https://www.youtube.com/watch?v=2HjspVV0jK4) | Michael Littman | *3:32* | *2007*|
+| [The Time Has Come](https://www.youtube.com/watch?v=QrohEBlw2nw) | SUSE | *4:19* | *2019*|
 | [This dot](https://www.youtube.com/watch?v=M5d7vygUPoQ) | Benedetto Nespoli | *1:08* | *2017*|
 | [This Is Engineering](https://www.youtube.com/watch?v=nFbWXuR_2Ow) | OfficialENGR | *4:14* | *2013*|
 | [Thrift Code](https://www.youtube.com/watch?v=f8M19SHP5TE) | astronomerssay | *4:03* | *2015*|
 | [Ubuntu's 'da bomb'](https://www.youtube.com/watch?v=JDisnYe38io) | dsterry | *2:21* | *2007*|
+| [Uptime Funk](https://www.youtube.com/watch?v=SYRlTISvjww) | SUSE | *4:28* | *2015*|
 | [U & I](https://www.youtube.com/watch?v=OPZeAi6YCMk) | starwarspunk | *3:14* | *2014* |
 | [We're Gonna Build a Framework](https://www.youtube.com/watch?v=Wm2h0cbvsw8) | Dylan Beattie | *4:07* | *2016* |
 | [Write in C](https://www.youtube.com/watch?v=1S1fISh-pag) | Albert Veli | *3:49* | *2010*|
