@@ -11,10 +11,13 @@ Welcome to the awesome list about funny programming music, this started with 3 s
 | [Big Rewrite](https://www.youtube.com/watch?v=xCGu5Z_vaps) | Dylan Beattie | *8:29* | *2018* |
 | [BTC Fever](https://www.youtube.com/watch?v=dDqye8F4R6s) | Siraj Raval | *3:59* | *2016*|
 | [Call Me Maybe: Sys Admin](https://www.youtube.com/watch?v=vYL2grv_muU) | techtoolboxllc | *3:42* | *2012* |
+| [Can't Stop the SUSE](https://www.youtube.com/watch?v=A-Rn0iQEpc8) | SUSE | *3:52* | *2016*|
 | [Code Anthem](https://www.youtube.com/watch?v=t5trXhAmWWk) | NirajanOfficial | *1:56* | *2016*|
 | [CodeCode](https://www.youtube.com/watch?v=f-Zhcrezoz8) | Shawn Kim | *7:17* | *2016*|
 | [Coder girl](https://www.youtube.com/watch?v=B-m6JDYRFvk) | Dale Chase | *3:06* | *2009*|
 | [Code Monkey](https://www.youtube.com/watch?v=qYodWEKCuGg) | idleambition | *3:23* | *2008*|
+| [Code Together](https://www.youtube.com/watch?v=_9aLiv5M6AQ) | SUSE | *3:42* | *2016*|
+| [Coding in the Name of](https://www.youtube.com/watch?v=50Qs4gVHB_E) | SUSE | *5:20* | *2016*|
 | [Coding SuperStar](https://www.youtube.com/watch?v=7Qk8gXH9_9c) | ComputerScienceFun TV | *3:19* | *2015* |
 | [Data Lit](https://www.youtube.com/watch?v=2GwzlT2M59A) | Siraj Raval | *2:44* | *2019*|
 | [Database Skills](https://www.youtube.com/watch?v=0vPt7GI-2kc) | MongoDB | *4:02* | *2017*|
@@ -31,12 +34,15 @@ Welcome to the awesome list about funny programming music, this started with 3 s
 | [Heuristics](https://www.youtube.com/watch?v=JqG3rmhdU-0) | Michael Littman | *2:57* | *2013*|
 | [I am Linux in a box](https://www.youtube.com/watch?v=O8bbdJj1DQg) | The Linux Foundation | *1:00* | *2009*|
 | [Imagine DevOps](https://www.youtube.com/watch?v=iYLxw6OsZug) | David Lutz | *3:05* | *2011*|
+| [It's SUSE and SAP](https://www.youtube.com/watch?v=h9E0CUfXgHE) | SUSE | *2:18* | *2019*|
 | [It's SUSE I Love](https://www.youtube.com/watch?v=YQTG4aLP4-0) | SUSE | *3:35* | *2019*|
 | [Java Is What Java Does](https://www.youtube.com/watch?v=zg79C7XM1Xs) | Java | *2:08* | *2014*|
 | [Java Life](https://www.youtube.com/watch?v=b-Cr0EWwaTk) | Java | *3:12* | *2011*|
 | [JavaScript Coder](https://www.youtube.com/watch?v=ARMlcfGxIwQ) | Patrick Hund | *4:32* | *2014*|
 | [KUBERNETES](https://www.youtube.com/watch?v=0w6kXdHXxAA) | SUSE | *4:24* | *2018*|
 | [Lady Java](https://www.youtube.com/watch?v=Mk3qkQROb_k) | Alexander Chernyy | *2:17* | *2010*|
+| [Linus Said](https://www.youtube.com/watch?v=oHNKTlz1lps) | SUSE | *3:30* | *2017*|
+| [My Kind of Open Source](https://www.youtube.com/watch?v=escykW2mC5k) | SUSE | *3:13* | *2019*|
 | [Octopus's Counting](https://www.youtube.com/watch?v=4p-9-nK-mwY) | Michael Littman | *3:01* | *2006*|
 | [Overfitting Thriller!](https://www.youtube.com/watch?v=DQWI1kvmwRg) | Udacity | *5:10* | *2014*|
 | [Paintcan](https://www.youtube.com/watch?v=BmLTzeuB_h8) | Michael Littman | *4:29* | *2007*|
@@ -67,9 +73,12 @@ Welcome to the awesome list about funny programming music, this started with 3 s
 | [Uptime Funk](https://www.youtube.com/watch?v=SYRlTISvjww) | SUSE | *4:28* | *2015*|
 | [U & I](https://www.youtube.com/watch?v=OPZeAi6YCMk) | starwarspunk | *3:14* | *2014* |
 | [We're Gonna Build a Framework](https://www.youtube.com/watch?v=Wm2h0cbvsw8) | Dylan Beattie | *4:07* | *2016* |
+| [What Does the Chameleon Say?](https://www.youtube.com/watch?v=VNkDJk5_9eU) | susevideo | *3:30* | *2013*|
 | [Write in C](https://www.youtube.com/watch?v=1S1fISh-pag) | Albert Veli | *3:49* | *2010*|
 | [Write in Go](https://www.youtube.com/watch?v=LJvEIjRBSDA) | ScaleAbility | *3:42* | *2014*|
+| [Yes Please](https://www.youtube.com/watch?v=M9bq_alk-sw) | SUSE | *3:46* | *2015*|
 | [You Give REST a Bad Name](https://www.youtube.com/watch?v=nSKp2StlS6s) | Dylan Beattie | *3:42* | *2017* |
+| [25 Years](https://www.youtube.com/watch?v=4VrhlyIgo3M) | SUSE | *3:58* | *2017*|
 
 ## License
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
