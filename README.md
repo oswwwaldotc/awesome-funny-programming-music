@@ -44,6 +44,7 @@ Note: All songs are related to IT and derivatives.
 | [KUBERNETES](https://www.youtube.com/watch?v=0w6kXdHXxAA) | SUSE | *4:24* | *2018*|
 | [Lady Java](https://www.youtube.com/watch?v=Mk3qkQROb_k) | Alexander Chernyy | *2:17* | *2010*|
 | [Linus Said](https://www.youtube.com/watch?v=oHNKTlz1lps) | SUSE | *3:30* | *2017*|
+| [Linux is Enough (Spanish edition)](https://www.youtube.com/watch?v=K6rY7jytsms)| Yoyo Fernández | *3:47* | *2019* |
 | [My Kind of Open Source](https://www.youtube.com/watch?v=escykW2mC5k) | SUSE | *3:13* | *2019*|
 | [Octopus's Counting](https://www.youtube.com/watch?v=4p-9-nK-mwY) | Michael Littman | *3:01* | *2006*|
 | [Overfitting Thriller!](https://www.youtube.com/watch?v=DQWI1kvmwRg) | Udacity | *5:10* | *2014*|
