@@ -1,4 +1,5 @@
-# Awesome funny programming music [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# Awesome funny programming music :musical_note:
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 Welcome to the awesome list about funny programming music, this started with 3 songs and now it seems to have no end. The list is ordered in alphabetical order, with respect to contributions or suggestions are welcome, if you want to add new content [follow the rules](https://github.com/dev-oswld/awesome-funny-programming-music/blob/master/CONTRIBUTING.md). Finally, create a playlist on YouTube that you can access [here](https://www.youtube.com/playlist?list=PLemLAG70Uq03PzXs1hhyOiDZZCYWGWeMh), this was organized based on the popularity of each song.
 
@@ -45,6 +46,7 @@ Note: All songs are related to IT and derivatives.
 | [Lady Java](https://www.youtube.com/watch?v=Mk3qkQROb_k) | Alexander Chernyy | *2:17* | *2010*|
 | [Linus Said](https://www.youtube.com/watch?v=oHNKTlz1lps) | SUSE | *3:30* | *2017*|
 | [Linux is Enough (Spanish edition)](https://www.youtube.com/watch?v=K6rY7jytsms)| Yoyo Fernández | *3:47* | *2019* |
+| [My great Distro (Spanish edition)](https://www.youtube.com/watch?v=sqb8hnd394o)| Yoyo Fernández | *2:58* | *2018* |
 | [My Kind of Open Source](https://www.youtube.com/watch?v=escykW2mC5k) | SUSE | *3:13* | *2019*|
 | [Octopus's Counting](https://www.youtube.com/watch?v=4p-9-nK-mwY) | Michael Littman | *3:01* | *2006*|
 | [Overfitting Thriller!](https://www.youtube.com/watch?v=DQWI1kvmwRg) | Udacity | *5:10* | *2014*|
