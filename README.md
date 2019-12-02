@@ -1,7 +1,7 @@
 # Awesome funny programming music :musical_note:
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 ![GitHub](https://img.shields.io/github/license/dev-oswld/awesome-funny-programming-music?style=flat-square)
-![Twitter Follow](https://img.shields.io/twitter/follow/dev_oswld?style=social)
+[![Twitter](https://img.shields.io/twitter/follow/dev_oswld?style=social)](https://twitter.com/intent/follow?screen_name=dev_oswld)
 
 Welcome to the awesome list about funny programming music, this started with 3 songs and now it seems to have no end. The list is ordered in alphabetical order, with respect to contributions or suggestions are welcome, if you want to add new content [follow the rules](https://github.com/dev-oswld/awesome-funny-programming-music/blob/master/CONTRIBUTING.md). Finally, create a playlist on YouTube that you can access [here](https://www.youtube.com/playlist?list=PLemLAG70Uq03PzXs1hhyOiDZZCYWGWeMh), this was organized based on the popularity of each song.
 
