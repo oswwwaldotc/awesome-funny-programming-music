@@ -1,5 +1,7 @@
 # Awesome funny programming music :musical_note:
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+![GitHub](https://img.shields.io/github/license/dev-oswld/awesome-funny-programming-music?style=flat-square)
+![Twitter Follow](https://img.shields.io/twitter/follow/dev_oswld?style=social)
 
 Welcome to the awesome list about funny programming music, this started with 3 songs and now it seems to have no end. The list is ordered in alphabetical order, with respect to contributions or suggestions are welcome, if you want to add new content [follow the rules](https://github.com/dev-oswld/awesome-funny-programming-music/blob/master/CONTRIBUTING.md). Finally, create a playlist on YouTube that you can access [here](https://www.youtube.com/playlist?list=PLemLAG70Uq03PzXs1hhyOiDZZCYWGWeMh), this was organized based on the popularity of each song.
 
@@ -23,6 +25,8 @@ Note: All songs are related to IT and derivatives.
 | [Coding in the Name of](https://www.youtube.com/watch?v=50Qs4gVHB_E) | SUSE | *5:20* | *2016*|
 | [Coding SuperStar](https://www.youtube.com/watch?v=7Qk8gXH9_9c) | ComputerScienceFun TV | *3:19* | *2015* |
 | [Data Lit](https://www.youtube.com/watch?v=2GwzlT2M59A) | Siraj Raval | *2:44* | *2019*|
+| [Data Privacy Policy](https://www.youtube.com/watch?v=mEaJHat-2dA) | Autons Answers | *2:53* | *2017*|
+| [Data Protection (SQL)](https://www.youtube.com/watch?v=Wp9i0R8iVgM) | Homer McEwen | *3:50* | *2016*|
 | [Database Skills](https://www.youtube.com/watch?v=0vPt7GI-2kc) | MongoDB | *4:02* | *2017*|
 | [Developers](https://www.youtube.com/watch?v=RwMvW9cAIZg) | Dale Chase | *3:17* | *2011*|
 | [Enterprise Waterfall](https://www.youtube.com/watch?v=Mq1MD5qXI08) | Dylan Beattie | *3:14* | *2017* |
@@ -58,6 +62,7 @@ Note: All songs are related to IT and derivatives.
 | [Puppy Linux](https://www.youtube.com/watch?v=rDTLJYDHX3g) | Martyn Cruise | *0:22* | *2006*|
 | [Sand Hill Road](https://www.youtube.com/watch?v=KVgwQKXcmtI) | LJ Erwin | *2:18* | *2019* |
 | [Scratch!](https://www.youtube.com/watch?v=uInOlMY-p9E) | Michael Littman | *2:42* | *2014* |
+| [Seven Databases](https://www.youtube.com/watch?v=bSAc56YCOaE) | PragProg | *1:42* | *2012*|
 | [Smarter](https://www.youtube.com/watch?v=XTNl5WxklgE) | Siraj Raval | *1:36* | *2017*|
 | [Solve AI or Die Trying](https://www.youtube.com/watch?v=SrWJ1Mgn_hc) | Siraj Raval | *2:17* | *2018*|
 | [SUSE Now Hallelujah](https://www.youtube.com/watch?v=-z8LDOujCJc) | SUSE | *3:02* | *2018*|
