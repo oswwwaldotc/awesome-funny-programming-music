@@ -36,6 +36,7 @@ Note: All songs are related to IT and derivatives.
 | [Free Software Song (Metal edition)](https://www.youtube.com/watch?v=Gv7PlyR5xrY) | skilltik | *3:18* | *2011*|
 | [Free Software (Spanish edition)](https://www.youtube.com/watch?v=zT_I_3a6OGw) | Carlos Augusto Ares | *1:50* | *2013*|
 | [Full Stack](https://www.youtube.com/watch?v=rj3pnZ51xI4) | Dylan Beattie | *5:24* | *2017* |
+| [GraphQL Wave](https://www.youtube.com/watch?v=g-TMhA0gkY8) | Honeypot | *19:54* | *2019*|
 | [Google Paradise](https://www.youtube.com/watch?v=NCjeSDMotgs) | ScaleAbility | *3:41* | *2017*|
 | [Hello from MongoDB](https://www.youtube.com/watch?v=V6JVU0Nh4YM) | MongoDB | *5:07* | *2016*|
 | [Heuristics](https://www.youtube.com/watch?v=JqG3rmhdU-0) | Michael Littman | *2:57* | *2013*|
