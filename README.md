@@ -15,6 +15,7 @@ Note: All songs are related to IT and derivatives.
 | [An Error That I Used to Throw](https://www.youtube.com/watch?v=u47C-zIQNRE) | ScaleAbility | *4:18* | *2016*|
 | [Big Rewrite](https://www.youtube.com/watch?v=xCGu5Z_vaps) | Dylan Beattie | *8:29* | *2018* |
 | [BTC Fever](https://www.youtube.com/watch?v=dDqye8F4R6s) | Siraj Raval | *3:59* | *2016*|
+| [Bug in the JavaScript](https://www.youtube.com/watch?v=jxi0ETwDvws) | Dylan Beattie | *6:00* | *2019* |
 | [Call Me Maybe: Sys Admin](https://www.youtube.com/watch?v=vYL2grv_muU) | techtoolboxllc | *3:42* | *2012* |
 | [Can't Stop the SUSE](https://www.youtube.com/watch?v=A-Rn0iQEpc8) | SUSE | *3:52* | *2016*|
 | [Code Anthem](https://www.youtube.com/watch?v=t5trXhAmWWk) | NirajanOfficial | *1:56* | *2016*|
@@ -40,6 +41,7 @@ Note: All songs are related to IT and derivatives.
 | [Google Paradise](https://www.youtube.com/watch?v=NCjeSDMotgs) | ScaleAbility | *3:41* | *2017*|
 | [Hello from MongoDB](https://www.youtube.com/watch?v=V6JVU0Nh4YM) | MongoDB | *5:07* | *2016*|
 | [Heuristics](https://www.youtube.com/watch?v=JqG3rmhdU-0) | Michael Littman | *2:57* | *2013*|
+| [HTML](https://www.youtube.com/watch?v=woKUEIJkwxI) | Dylan Beattie | *3:40* | *2020* |
 | [I am Linux in a box](https://www.youtube.com/watch?v=O8bbdJj1DQg) | The Linux Foundation | *1:00* | *2009*|
 | [Imagine DevOps](https://www.youtube.com/watch?v=iYLxw6OsZug) | David Lutz | *3:05* | *2011*|
 | [It's SUSE and SAP](https://www.youtube.com/watch?v=h9E0CUfXgHE) | SUSE | *2:18* | *2019*|
@@ -51,6 +53,7 @@ Note: All songs are related to IT and derivatives.
 | [Lady Java](https://www.youtube.com/watch?v=Mk3qkQROb_k) | Alexander Chernyy | *2:17* | *2010*|
 | [Linus Said](https://www.youtube.com/watch?v=oHNKTlz1lps) | SUSE | *3:30* | *2017*|
 | [Linux is Enough (Spanish edition)](https://www.youtube.com/watch?v=K6rY7jytsms)| Yoyo Fernández | *3:47* | *2019* |
+| [Lost It On The Blockchain](https://www.youtube.com/watch?v=Ln88zXmFSm0) | Dylan Beattie | *5:03* | *2019* |
 | [MVC](https://www.youtube.com/watch?v=YYvOGPMLVDo)| James Dempsey | *6:22* | *2003* |
 | [My great Distro (Spanish edition)](https://www.youtube.com/watch?v=sqb8hnd394o)| Yoyo Fernández | *2:58* | *2018* |
 | [My Kind of Open Source](https://www.youtube.com/watch?v=escykW2mC5k) | SUSE | *3:13* | *2019*|
