@@ -31,6 +31,7 @@ Note: All songs are related to IT and derivatives.
 | [Database Skills](https://www.youtube.com/watch?v=0vPt7GI-2kc) | MongoDB | *4:02* | *2017*|
 | [Developers](https://www.youtube.com/watch?v=RwMvW9cAIZg) | Dale Chase | *3:17* | *2011*|
 | [Enterprise Waterfall](https://www.youtube.com/watch?v=Mq1MD5qXI08) | Dylan Beattie | *3:14* | *2017* |
+| [Everyone Knows It's SUSE](https://www.youtube.com/watch?v=eYbojC5uV_o) | SUSE | *2:20* | *2020* |
 | [Free Software](https://www.youtube.com/watch?v=9sJUDx7iEJw) | Ruddy Catalán | *2:02* | *2006*|
 | [Free Software (Electric guitar and bass edition)](https://www.youtube.com/watch?v=AKQdL7LCRIk) | Albert Veli | *2:09* | *2008*|
 | [Free Software Song (GNU/Punk edition)](https://www.youtube.com/watch?v=kCpjg50-nvc) | swamponions | *1:43* | *2015*|
