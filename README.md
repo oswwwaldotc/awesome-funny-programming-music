@@ -3,7 +3,7 @@
 ![GitHub](https://img.shields.io/github/license/dev-oswld/awesome-funny-programming-music?style=flat-square)
 [![Twitter](https://img.shields.io/twitter/follow/dev_oswld?style=social)](https://twitter.com/intent/follow?screen_name=dev_oswld)
 
-Welcome to the awesome list about funny programming music, this started with 3 songs and now it seems to have no end. The list is ordered in alphabetical order, with respect to contributions or suggestions are welcome, if you want to add new content [follow the rules](https://github.com/dev-oswld/awesome-funny-programming-music/blob/master/CONTRIBUTING.md). Finally, create a playlist on YouTube that you can access [here](https://www.youtube.com/playlist?list=PLemLAG70Uq03PzXs1hhyOiDZZCYWGWeMh), this was organized based on the popularity of each song.
+Welcome to the awesome list about funny programming music, this started with 3 songs and now it seems to have no end. The list is ordered in alphabetical order, with respect to contributions or suggestions are welcome, if you want to add new content [follow the rules](https://github.com/dev-oswld/awesome-funny-programming-music/blob/master/CONTRIBUTING.md).
 
 Note: All songs are related to IT and derivatives.
 
@@ -41,6 +41,7 @@ Note: All songs are related to IT and derivatives.
 | [Full Stack](https://www.youtube.com/watch?v=rj3pnZ51xI4) | Dylan Beattie | *5:24* | *2017* |
 | [GraphQL Wave](https://www.youtube.com/watch?v=g-TMhA0gkY8) | Honeypot | *19:54* | *2019*|
 | [Google Paradise](https://www.youtube.com/watch?v=NCjeSDMotgs) | ScaleAbility | *3:41* | *2017*|
+| [Have Yourself a Smooth Friday Deployment](https://www.youtube.com/watch?v=qht6uqi_DPg) | Anna McDougall | *2:41* | *2020*|
 | [Hello from MongoDB](https://www.youtube.com/watch?v=V6JVU0Nh4YM) | MongoDB | *5:07* | *2016*|
 | [Heuristics](https://www.youtube.com/watch?v=JqG3rmhdU-0) | Michael Littman | *2:57* | *2013*|
 | [HTML](https://www.youtube.com/watch?v=woKUEIJkwxI) | Dylan Beattie | *3:40* | *2020* |
@@ -70,6 +71,7 @@ Note: All songs are related to IT and derivatives.
 | [Sand Hill Road](https://www.youtube.com/watch?v=KVgwQKXcmtI) | LJ Erwin | *2:18* | *2019* |
 | [Scratch!](https://www.youtube.com/watch?v=uInOlMY-p9E) | Michael Littman | *2:42* | *2014* |
 | [Seven Databases](https://www.youtube.com/watch?v=bSAc56YCOaE) | PragProg | *1:42* | *2012*|
+| [Silent Code](https://www.youtube.com/watch?v=ALmUd-C-8uA) | Anna McDougall | *3:03* | *2020*|
 | [Smarter](https://www.youtube.com/watch?v=XTNl5WxklgE) | Siraj Raval | *1:36* | *2017*|
 | [Solve AI or Die Trying](https://www.youtube.com/watch?v=SrWJ1Mgn_hc) | Siraj Raval | *2:17* | *2018*|
 | [SUSE Now Hallelujah](https://www.youtube.com/watch?v=-z8LDOujCJc) | SUSE | *3:02* | *2018*|
